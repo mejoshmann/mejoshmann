@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mejoshmann
+- 👋 Hi, I’m @goostcreative
 - 👀 I’m interested in, Front end web design, programming and photography.
 - 🌱 I’m currently learning, HTML, CSS, Python and Java.
 - 💞️ I’m looking to collaborate on ...
