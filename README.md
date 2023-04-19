@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @goostcreative
+- 👋 Hi, I’m Josh
 - 👀 I’m interested in, Front end web design, programming and photography.
-- 🌱 I’m currently learning, HTML, CSS, Python and Java.
+- 🌱 I’m currently learning, HTML, CSS, JavaScript.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me, goostcreative@gmail.com
+- 📫 How to reach me, mann.photography@gmail.com
 
 <!---
 mejoshmann/mejoshmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
